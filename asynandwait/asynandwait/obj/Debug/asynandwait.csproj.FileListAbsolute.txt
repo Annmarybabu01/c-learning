@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\bin\Debug\asynandwait.exe.config
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\bin\Debug\asynandwait.exe
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\bin\Debug\asynandwait.pdb
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\obj\Debug\asynandwait.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\obj\Debug\asynandwait.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\obj\Debug\asynandwait.exe
+C:\ANN\STUDY\C_PROJECTS\asynandwait\asynandwait\obj\Debug\asynandwait.pdb

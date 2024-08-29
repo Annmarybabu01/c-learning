@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\bin\Debug\adodotnetlearning.exe.config
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\bin\Debug\adodotnetlearning.exe
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\bin\Debug\adodotnetlearning.pdb
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\obj\Debug\adodotnetlearning.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\obj\Debug\adodotnetlearning.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\obj\Debug\adodotnetlearning.exe
+C:\ANN\STUDY\C_PROJECTS\adodotnetlearning\adodotnetlearning\obj\Debug\adodotnetlearning.pdb

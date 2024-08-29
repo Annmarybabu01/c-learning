@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\bin\Debug\c#training.exe.config
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\bin\Debug\c#training.exe
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\bin\Debug\c#training.pdb
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\obj\Debug\c#training.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\obj\Debug\c#training.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\obj\Debug\c#training.exe
+C:\ANN\STUDY\C_PROJECTS\c#training\c#training\obj\Debug\c#training.pdb

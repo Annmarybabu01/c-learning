@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\obj\Debug\advancec#.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\obj\Debug\advancec#.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\bin\Debug\advancec#.exe.config
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\bin\Debug\advancec#.exe
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\bin\Debug\advancec#.pdb
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\obj\Debug\advancec#.exe
+C:\ANN\STUDY\C_PROJECTS\advancec#\advancec#\obj\Debug\advancec#.pdb

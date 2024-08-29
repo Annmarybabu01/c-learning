@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\obj\Debug\classobect.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\obj\Debug\classobect.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\bin\Debug\classobect.exe.config
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\bin\Debug\classobect.exe
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\bin\Debug\classobect.pdb
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\obj\Debug\classobect.exe
+C:\ANN\STUDY\C_PROJECTS\classobect\classobect\obj\Debug\classobect.pdb

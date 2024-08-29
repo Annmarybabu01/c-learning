@@ -1,0 +1,7 @@
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\bin\Debug\datasetadapter.exe.config
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\bin\Debug\datasetadapter.exe
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\bin\Debug\datasetadapter.pdb
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\obj\Debug\datasetadapter.csproj.AssemblyReference.cache
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\obj\Debug\datasetadapter.csproj.CoreCompileInputs.cache
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\obj\Debug\datasetadapter.exe
+C:\ANN\STUDY\C_PROJECTS\datasetadapter\datasetadapter\obj\Debug\datasetadapter.pdb

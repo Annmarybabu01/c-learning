@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classobect", "classobect\classobect.csproj", "{71506225-C4CD-4B72-A914-74B6E2475B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71506225-C4CD-4B72-A914-74B6E2475B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71506225-C4CD-4B72-A914-74B6E2475B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71506225-C4CD-4B72-A914-74B6E2475B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71506225-C4CD-4B72-A914-74B6E2475B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B57FE64-6DD2-4A22-A16D-4E6FA4F20E51}
+	EndGlobalSection
+EndGlobal
